@@ -9,7 +9,7 @@
 
 
 <h4> Connect with me: </h4>
-<a href="https://www.linkedin.com/in/michael-maher-216b13108">
+<a href="https://www.linkedin.com/in/michael-maher-216b13108" _target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" hight="45" width="45"/>
 </a>
           
