@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋 I am Michael </h2>
+<h2 align="center"> Hi there 👋 I'm Michael </h2>
 
 
 - 🔭 A passionate Web Developer
