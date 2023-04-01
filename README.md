@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 I am Michael </h1>
 
-<!--
-**MichaelMaherKamel/MichaelMaherKamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 A passionate Web Developer
+- 🌱 I’m currently learning TypeScript, MERN Stack (MongodB, ReactJs, NodeJs)
+- 👯 I’m looking to start my WebDev career
+- 📫 How to reach me: michaelmaherkamel@gmail.com
+- ⚡ Fun fact: I studied Mechatronics Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> Connect with me: </h3>
+<a href="https://www.linkedin.com/in/michael-maher-216b13108">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" hight="45" width="45"/>
+</a>
+          
