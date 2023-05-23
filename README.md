@@ -2,7 +2,7 @@
 
 
 - 🔭 A passionate Web Developer
-- 🌱 I’m currently learning TypeScript, MERN Stack (MongodB, ReactJs, NodeJs)
+- 🌱 I’m currently learning TypeScript, MERN Stack (MongodB, ReactJs, NodeJs), NextJs
 - 👯 I’m looking to start my WebDev Career
 - 📫 How to reach me: michaelmaherkamel@gmail.com
 - ⚡ Fun fact: I studied Mechatronics Engineering
