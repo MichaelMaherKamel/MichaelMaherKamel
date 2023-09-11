@@ -1,8 +1,8 @@
-<h2 align="center"> Hi there 👋 I'm Michael </h2>
+<h2 align="center"> Hi there 👋 It's Mike </h2>
 
 
 - 🔭 A passionate self-taught Web Developer
-- 🌱 I have extensive knowledge in building projects using NextJs, Drizzle-ORM, and MySQL
+- 🌱 I have extensive knowledge in building projects using MERN Stack, NextJs, Drizzle-ORM, and MySQL
 - 👯 I’m looking to start my WebDev Career
 - 📫 How to reach me: michaelmaherkamel@gmail.com
 - ⚡ Fun fact: I studied Mechatronics Engineering
