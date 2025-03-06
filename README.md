@@ -2,7 +2,7 @@
 
 
 - 🔭 A passionate self-taught Web Developer
-- 🌱 I am currently using NextJs in my projects
+- 🌱 I am currently using NextJs, Solid Start in my projects
 - 👯 I’m looking to start my WebDev Career
 - 📫 How to reach me: michaelmaherkamel@gmail.com
 - ⚡ Fun fact: I studied Mechatronics Engineering
