@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there 👋 I'm Mike </h2>
 
-- 🔭 A passionate self-taught Full Stack Developer
+- 🔭 A passionate self-taught Software Engineer
 - 🌱 Currently working with ReactJS, NextJS, Svelte, SolidJS, Node.js, FastAPI, TypeScript, and Python
 - 📫 How to reach me: michaelmaherkamel@gmail.com
 - ⚡ Fun fact: I studied Mechatronics Engineering
